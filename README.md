@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 Attached the working gif File<br />
-![PIXABAY Images API Integration](http://recordit.co/5NQ5Rm2MGR.gif)
+![PIXABAY](http://recordit.co/5NQ5Rm2MGR.gif)
