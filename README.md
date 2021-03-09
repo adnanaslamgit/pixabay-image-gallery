@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+For API Key, You have to signup in PIXABAY and create account after that you have to use your key in APP.js File as I mentioned.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

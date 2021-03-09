@@ -9,7 +9,7 @@ const [isLoading, setIsLoading] = useState(true);
 const [keyword, setKeyword] = useState("");
 
 useEffect(() => {
-  fetch(`https://pixabay.com/api/?key=20576487-88296dbfecbac139c2945a230&q=${keyword}&image_type=photo&pretty=true`)
+  fetch(`https://pixabay.com/api/?key=YOUR_PIXABAY_API_KEY&q=${keyword}&image_type=photo&pretty=true`)
   .then(res => res.json())
   .then(data => {
     setItems(data.hits);
