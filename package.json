@@ -2,7 +2,7 @@
   "name": "pixabay-image-gallery",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://adnanaslamgit.github.io/pixabay-image-gallery",
+  "homepage": "https://adnanaslamgit.github.io/pixabay-image-gallery/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -22,7 +22,7 @@
     "build:css": "postcss src/styles/tailwind.css -o src/styles/main.css",
     "watch:css": "postcss src/styles/tailwind.css -o src/styles/main.css",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"  
   },
   "eslintConfig": {
     "extends": [
